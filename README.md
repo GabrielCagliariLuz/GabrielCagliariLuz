@@ -1,5 +1,7 @@
 # Hi there, I'm Gabriel 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gabriel+Cagliari+Luz;Software+Engineer)](https://git.io/typing-svg)
+
 Software Engineering undergraduate at PUCRS, focused on **Backend Development** and scalable web architectures within the **Java ecosystem**, with hands-on experience building fullstack and mobile-integrated solutions.
 
 ---
