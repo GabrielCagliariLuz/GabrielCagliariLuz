@@ -30,7 +30,7 @@ Software Engineering undergraduate at PUCRS, focused on **Backend Development** 
 
 ### 🚀 Key Projects
 
-- 🔐 **[authApp](https://github.com/GabrielCagliariLuz/authApp)** — Stateless authentication & authorization API built with Java, Spring Boot, and JWT, featuring clean layered architecture and relational persistence.
+- 🔐 **[authApp](https://auth-app-nine-psi.vercel.app/)** — Stateless authentication & authorization API built with Java, Spring Boot, and JWT, featuring clean layered architecture and relational persistence.
 - 📱 **[cadastro-responsivo](https://github.com/GabrielCagliariLuz/cadastro-responsivo)** — Responsive user registration interface built with semantic HTML5, CSS3, and JavaScript, designed mobile-first and deployed via Vercel.
 
 ---
