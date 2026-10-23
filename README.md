@@ -31,10 +31,11 @@ Software Engineering undergraduate at PUCRS, focused on **Backend Development** 
 
 ### 🚀 Key Projects
 
+- 📆 **[Ensora](https://github.com/GabrielCagliariLuz/ensora)** — Installable PWA for habit tracking and personal organization (habits, deadlines, events, and calendar), built with React, TypeScript, Spring Boot, and PostgreSQL. Features secure sessions with rotating refresh tokens, per-user data isolation verified by Testcontainers integration tests, and Docker deployment. [Live demo](https://ensora.onrender.com).
 - 🔐 **[authApp](https://auth-app-nine-psi.vercel.app/)** — Stateless authentication & authorization API built with Java, Spring Boot, and JWT, featuring clean layered architecture and relational persistence.
-- 📱 **[cadastro-responsivo](https://github.com/GabrielCagliariLuz/cadastro-responsivo)** — Responsive user registration interface built with semantic HTML5, CSS3, and JavaScript, designed mobile-first and deployed via Vercel.
 
 ---
+
 
 ### 📬 Where to find me
 
